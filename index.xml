@@ -6,7 +6,18 @@
     <description>Recent content on Simple Heart Dr.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 02 Apr 2023 10:07:47 +0800</lastBuildDate><atom:link href="https://simpleheartdr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Mar 2024 18:07:47 +0800</lastBuildDate><atom:link href="https://simpleheartdr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用藥頻率與劑量縮寫</title>
+      <link>https://simpleheartdr.github.io/blog/medication-frequency/</link>
+      <pubDate>Mon, 18 Mar 2024 18:07:47 +0800</pubDate>
+      
+      <guid>https://simpleheartdr.github.io/blog/medication-frequency/</guid>
+      <description>當病人時從藥局拿著一包包的藥袋，上面寫著不同的用藥時間與方法；進入醫院實習時，要看懂一筆筆醫囑上面寫的縮寫；當有機會自己開立醫囑時，還要了解住院中開立醫囑時間與給藥的時間的間距，是不是來得及給藥，有沒有需要額外開立單次的藥物給予。
+有些醫院會有系統的提醒，但有時候還是讓作為醫療人員搞不清楚，甚至有時候還要考慮藥局、傳送時間等等的多種因素
+藥物頻次縮寫/用藥縮寫對照    縮寫 解釋 住院中使用時間 記法 備註     STAT 立刻使用 需於30分鐘內完成     ONCE 單次給藥   註記給藥原因   Q3D 每三天一次      QOD 兩天一次   註記單/雙日   QD 每天一次      BID 一天兩次      TID 一天三次      QID 一天四次      QN 每晚一次      HS 每日睡前1次 21     BIHS 每日2次+睡前1次      Q1H 每小時1次      Q2H 每2小時1次      Q4H 每4小時1次 9-13-17-21-1-5     Q6H 每6小時1次 6-12-18-0     Q8H 每8小時1次 9-17-1     Q12H 每12小時1次 9-21     QW 1週1次   每星期 x 使用   BIW  一週兩次  每星期 x 使用   TIW  一週三次  每星期 x 使用   PRN 需要時，不定時 需要時使用(Pro Re Nata)  註明時機   IRRE 不規則用藥   註明給藥時間與劑量   QS 適量   藥膏   CMHS 隔日上午及睡前   極少使用   CM 隔日上午   藥物極少使用，常用於檢驗時間    兒科在給藥時間上考量睡覺時間可能會有所不同。</description>
+    </item>
+    
     <item>
       <title>第二階段中醫師國考心得-針灸科</title>
       <link>https://simpleheartdr.github.io/blog/2nd-stage-necp-acup/</link>
